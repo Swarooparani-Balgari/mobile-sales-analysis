@@ -16,7 +16,7 @@ Analysis Performed
 - Revenue by salesperson
 - Sales dashboard
 
-![Dashboard: Sales_dashboard.png]
+![Dashboard:Sales_dashboard.png]
 
 Key Insights
 - Apple generated highest revenue
