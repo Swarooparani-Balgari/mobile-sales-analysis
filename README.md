@@ -16,8 +16,10 @@ Analysis Performed
 - Revenue by salesperson
 - Sales dashboard
 
+![Dashboard: Sales_dashboard.png]
+
 Key Insights
 - Apple generated highest revenue
 - Delhi produced the most sales
 - Rahul was the top salesperson
-- On the day 01 June 2025 had the highest sales
+- On the day 01 June 2025 had the highest revenue among all days
